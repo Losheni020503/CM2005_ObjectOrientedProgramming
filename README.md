@@ -72,7 +72,7 @@ Inspired by modern DJ software and implemented using `ReverbParameters`:
 
 **Losheni Meenakshi Sundaram**  
 Student, University Of London , Singapore Institute of Management  
-📫 Contact: _your.email@example.com_
+📫 Contact: losheni.ms@gmail.com
 
 ---
 
